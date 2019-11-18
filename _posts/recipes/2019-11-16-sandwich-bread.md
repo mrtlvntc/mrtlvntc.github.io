@@ -12,11 +12,12 @@ tags: [paleo, vegan, gluten free]
 cooking_time: 4 h
 cover_image: 2019-11-16-real-natural-gluten-bread.jpg
 side_gallery:
- - 2019-11-16-sandwich-bread.jpg
- - 2019-11-16-sandwich-bread-vegan-gluten.jpg
- - 2019-11-16-sandwich-bread-gluten-free.jpg
+  - 2019-11-16-sandwich-bread.jpg
+  - 2019-11-16-sandwich-bread-vegan-gluten.jpg
+  - 2019-11-16-homemade-glutenfree-bread.jpg
 
 bottom_gallery:
+  - 2019-11-16-sandwich-bread-gluten-free.jpg
   - 2019-11-16-white-rice-bread.jpg
 
 outcome: "This simple gluten free bread recipe is made up with no commercial mix, just rice flour and corn starch. For a bigger loaf, you can directly double the dose.  Once cooled, you can easily slice it and freeze it to always have some slices on hand. You will be astonished by the homemade taste and its fluffy texture."
