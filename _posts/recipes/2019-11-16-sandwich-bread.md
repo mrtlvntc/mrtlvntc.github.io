@@ -20,11 +20,10 @@ bottom_gallery:
   - 2019-11-16-sandwich-bread-vegan-gluten.jpg
   - 2019-11-16-white-rice-bread.jpg
 
-outcome: "This gluten free and vegan bread (yes vegan, because 90% of the gluten free bread recipes out there contains eggs or even mozzarella cheese, what a shame!) is born to make you happy with a sandwich. Its softness and  homemade bread aroma are incredible with salmon and avocado. Delicious with soups, it's even better toasted and served hot with butter and jam."
-
+outcome: "This simple gluten free bread recipe is made up with no commercial mix, just rice flour and corn starch. For a bigger loaf, you can directly double the dose.  Once cooled, you can easily slice it and freeze it to always have some slices on hand. You will be astonished by the homemade taste and its fluffy texture."
 ---
 
-This simple gluten free bread recipe is made up with no commercial mix, just rice flour and corn starch. For a bigger loaf, you can directly double the dose.  Once cooled, you can easily slice it and freeze it to always have some slices on hand. You will be astonished by the homemade taste and its fluffy texture.
+This gluten free and vegan bread (yes vegan, because 90% of the gluten free bread recipes out there contains eggs or even mozzarella cheese, what a shame!) is born to make you happy with a sandwich. Its softness and  homemade bread aroma are incredible with salmon and avocado. Delicious with soups, it's even better toasted and served hot with butter and jam.
 
 __Ingredients for a little loaf:__
 
