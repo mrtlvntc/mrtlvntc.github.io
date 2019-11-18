@@ -10,7 +10,7 @@ excerpt: "How to make gluten free bread with natural flours"
 keywords: "gluten free, dairy free, vegan, sugar free"
 tags: [paleo, vegan, gluten free]
 cooking_time: 4 h
-cover_image: 2019-11-16-natural-gluten-bread.jpg
+cover_image: 2019-11-16-real-natural-gluten-bread.jpg
 side_gallery:
  - 2019-11-16-sandwich-bread.jpg
  - 2019-11-16-homemade-glutenfree-bread.jpg
