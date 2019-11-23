@@ -15,7 +15,7 @@ side_gallery:
  - 2019-11-23-pumpkin-granola-soup.jpg
  - 2019-11-23-pumpkin-granola-veloute.jpg
  - 2019-11-23-pumpkin-granola.jpg
- - 2019-11-23-pumpkin-granola-cream.jpg
+
 
 bottom_gallery:
   - 2019-11-23-pumpkin-granola-zero-waste.jpg
