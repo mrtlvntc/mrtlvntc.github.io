@@ -8,7 +8,7 @@ title: "Rice sandwich bread"
 tagline: "Easy recipe for a soft gluten free bread loaf"
 excerpt: "How to make gluten free bread with natural flours"
 keywords: "gluten free, dairy free, vegan, sugar free"
-tags: [paleo, vegan, gluten free]
+tags: [vegan, gluten free]
 cooking_time: 4 h
 cover_image: 2019-11-16-real-natural-gluten-bread.jpg
 side_gallery:
