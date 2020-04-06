@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://martalevantaci.com/sitemap.xml
